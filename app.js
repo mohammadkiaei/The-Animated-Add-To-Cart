@@ -1,3 +1,4 @@
+// Var
 var button = document.getElementById("cart-button");
 var number = document.querySelector('.number');
 var popup = document.querySelector(".popup");
@@ -6,6 +7,7 @@ var minus = document.querySelector(".minus");
 var background = document.querySelector(".background");
 var counter = 0;
 
+// Event Listener
 button.addEventListener("click", function (event) {
     if (counter == 0) {
         number.classList.add("popup-open");
@@ -94,4 +96,4 @@ function increment() {
     number.innerHTML = counter;
 }
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
