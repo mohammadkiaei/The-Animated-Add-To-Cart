@@ -1,5 +1,5 @@
 # Animated Add To Cart
-This is simple add to cart animation implemented by HTML, CSS, JS. <br/>
+This simple add-to-cart animation is implemented by HTML, CSS, and JS. <br/>
 You can see the [online preview](https://mohammadkiaei.github.io/The-Animated-Add-To-Cart/) :shopping_cart: .
 <br/>
 <br/>
